@@ -94,8 +94,9 @@
                 <div class="card">
                     <img src="images/img.jpg" class="card-img-top h-50" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title">Sharokhan</h5>
+                        <p class="card-text">Shah Rukh Khan also known by the initialism SRK, is an Indian actor, film producer, and television personality who works in Hindi films.
+</p>
                         <a href="#" class="btn btn-outline-danger">Go somewhere</a>
                     </div>
                 </div>
@@ -105,20 +106,20 @@
                 <div class="card">
                     <img src="images/img2.jpg" class="card-img-top h-50" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-outline-danger">Go somewhere</a>
+                        <h5 class="card-title">Tamer Hosny</h5>
+                        <p class="card-text">Singer, Actor & Producer. First Arab Artist in history to get his hand & footprint in Chinese theater, Hollywood. ... Photo by Tamer Hosny on January 20, 2022.</p> 
+                         <a href="#" class="btn btn-outline-danger">Go somewhere</a>
                     </div>
                 </div>
 
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 p-1">
                 <div class="card">
-                    <img src="images/img3.jpg" class="card-img-top h-50" alt="...">
+                    <img src="images/img4.jpg" class="card-img-top h-50" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-outline-danger">Go somewhere</a>
+                        <h5 class="card-title">Mo salah</h5>
+                        <p class="card-text">Mohamed Salah, 29, from Egypt ➤ Liverpool FC, since 2017 ➤ Right Winger ➤ Market value: €100.00m ➤ * Jun 15, 1992 in Nagrig, Basyoun, Egypt.</p>
+                      <a href="#" class="btn btn-outline-danger">Go somewhere</a>
                     </div>
                 </div>
 
@@ -127,9 +128,9 @@
                 <div class="card">
                     <img src="images/img.jpg" class="card-img-top h-50" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-outline-danger">Go somewhere</a>
+                        <h5 class="card-title">Sharokhan</h5>
+                        <p class="card-text">Shah Rukh Khan also known by the initialism SRK, is an Indian actor, film producer, and television personality who works in Hindi films.</p>
+      <a href="#" class="btn btn-outline-danger">Go somewhere</a>
                     </div>
                 </div>
 
@@ -138,20 +139,20 @@
                 <div class="card">
                     <img src="images/img2.jpg" class="card-img-top h-50" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-outline-danger">Go somewhere</a>
+                        <h5 class="card-title">Tamer Hosny</h5>
+                        <p class="card-text">Singer, Actor & Producer. First Arab Artist in history to get his hand & footprint in Chinese theater, Hollywood. ... Photo by Tamer Hosny on January 20, 2022.</p> 
+                          <a href="#" class="btn btn-outline-danger">Go somewhere</a>
                     </div>
                 </div>
 
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12 p-1">
                 <div class="card" style=>
-                    <img src="images/img3.jpg" class="card-img-top h-50" alt="...">
+                    <img src="images/img4.jpg" class="card-img-top h-50" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                        <a href="#" class="btn btn-outline-danger">Go somewhere</a>
+                        <h5 class="card-title">Mo salah</h5>
+                        <p class="card-text">Mohamed Salah, 29, from Egypt ➤ Liverpool FC, since 2017 ➤ Right Winger ➤ Market value: €100.00m ➤ * Jun 15, 1992 in Nagrig, Basyoun, Egypt.</p>
+                      <a href="#" class="btn btn-outline-danger">Go somewhere</a>
                     </div>
                 </div>
 
